@@ -1,3 +1,4 @@
+package src;
 public class Bank {
     private final String name;
     private int netBalance;
