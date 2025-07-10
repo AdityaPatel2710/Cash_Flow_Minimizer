@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("\nWelcome to SPLIT-ENABLED CASH FLOW MINIMIZER\n");
+        System.out.println("\nWelcome to CASH FLOW MINIMIZER\n");
 
         System.out.print("Enter number of people: ");
         int n = scanner.nextInt();
